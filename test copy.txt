@@ -1,3 +1,0 @@
-hello git!
-ファイル追加テスト
-+branchテスト
